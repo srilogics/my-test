@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'device'
 gem 'device1'
 gem 'device2'
+gem 'device3'
 
 
 # Gems used only for assets and not required
